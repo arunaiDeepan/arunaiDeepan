@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Arunai Deepan</h1>
+<h3 align="center">Passionate developer based in India</h3>
+
+
 
 <!--
 **arunaiDeepan/arunaiDeepan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
