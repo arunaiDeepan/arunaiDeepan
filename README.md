@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arunai Deepan</h1>
-<h3 align="center">Passionate developer based in India</h3>
+<h3 align="center">I'm a software engineer, problem solver, and general enthusiast for all things that beep and blink.</h3>
 
 
 
