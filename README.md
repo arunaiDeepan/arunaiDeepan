@@ -1,5 +1,4 @@
-<h3 align="center">Hi, I'm Arunai Deepan</h3>
-<h3 align="center">Noob engineer</h3>
+<h3 align="center">Hi</h3>
 
 
 
